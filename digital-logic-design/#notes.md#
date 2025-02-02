@@ -1,0 +1,5 @@
+[assignment 3]
+[q1]: Main difference between flip flops and latches is the addition of clock input.
+where latches are clock (edge) triggered while latches are simply connected sequentially and are level triggered.
+
+[q2]: 
